@@ -1,0 +1,97 @@
+brand,model,type,format,buttons,universal,protocol,frequency_mhz,learn_button_colors,openers_made_after,status,replaced_by,battery,derived_columns,source_ids,read_on
+Chamberlain,750CB,remote,,1,,Billion Code,390,green,,discontinued,CHU62,,protocol; frequency_mhz,cg-ch-receiver; cg-battery,2026-10-14
+Chamberlain,940EV,keypad,,,,Security+ 2.0; Security+; Billion Code,310; 315; 390,yellow; purple; brown; red; orange; green,1993,discontinued,,9V alkaline,protocol; frequency_mhz,cg-frequency; cg-940ev-pin; cg-keypad-battery,2026-10-14
+Chamberlain,950ESTD,remote,,1,,,,,,discontinued,CHU62,3V CR2032,,cg-953estd; cg-battery,2026-10-14
+Chamberlain,953CB,remote,,3,,Security+,390,red; orange,,discontinued,CHU62,,protocol; frequency_mhz,cg-ch-receiver; cg-battery,2026-10-14
+Chamberlain,953D,remote,,3,,Security+,315,purple; brown,,discontinued,CHU62,,protocol; frequency_mhz,cg-ch-receiver; cg-battery,2026-10-14
+Chamberlain,953ESTD,remote,,3,,,,,,discontinued,CHU62,3V CR2032,,cg-953estd; cg-battery,2026-10-14
+Chamberlain,953EV,remote,,3,,Security+ 2.0; Security+; Billion Code,310; 315; 390,yellow; purple; brown; red; orange; green,1993,discontinued,CHU62,3V CR2032,protocol; frequency_mhz,cg-prog-overview; cg-battery; cg-evmax; cg-frequency,2026-10-14
+Chamberlain,956EV,remote,keychain,3,,Security+ 2.0; Security+; Billion Code,310; 315; 390,yellow; purple; brown; red; orange; green,1993,discontinued,CHU62,3V CR2032,protocol; frequency_mhz,cg-prog-overview; cg-battery; cg-evmax; cg-frequency,2026-10-14
+Chamberlain,CH161,remote,,1,,,,,,current,,3V CR2032,,cg-prog-overview; cg-battery,2026-10-14
+Chamberlain,CH163,remote,,3,,,,,,current,,3V CR2032,,cg-prog-overview; cg-battery,2026-10-14
+Chamberlain,CH348,keypad,,,,Security+ 3.0; Security+ 2.0; Security+,310; 315; 390,white; yellow; purple; brown; orange; red,1997,current,,9V alkaline,protocol; frequency_mhz,cg-compat-ch; cg-compat-cr; cg-keypad-battery,2026-10-14
+Chamberlain,CH361,remote,,1,,Security+ 3.0; Security+ 2.0; Security+,310; 315; 390,white; yellow; purple; brown; orange; red,1997,current,,3V CR2032,protocol; frequency_mhz,cg-compat-ch; cg-compat-cr; cg-prog-overview; cg-battery,2026-10-14
+Chamberlain,CH363,remote,,3,,Security+ 3.0; Security+ 2.0; Security+,310; 315; 390,white; yellow; purple; brown; orange; red,1997,current,,3V CR2032,protocol; frequency_mhz,cg-compat-ch; cg-compat-cr; cg-prog-overview; cg-battery,2026-10-14
+Chamberlain,CH382,remote,keychain,2,,Security+ 3.0; Security+ 2.0; Security+,310; 315; 390,white; yellow; purple; brown; orange; red,1997,current,,3V CR2032,protocol; frequency_mhz,cg-compat-ch; cg-compat-cr; cg-prog-overview; cg-battery,2026-10-14
+Chamberlain,CHU48,keypad,,,yes,Security+ 3.0; Security+ 2.0; Security+; Billion Code,310; 315; 390,white; yellow; purple; brown; orange; red; green,1993,current,,9V alkaline,protocol; frequency_mhz,cg-compat-ch; cg-compat-cr; cg-compat-genie; cg-compat-linear; cg-compat-od; cg-compat-wd; cg-compat-stanley; cg-universal; cg-keypad-battery,2026-10-14
+Chamberlain,CHU62,remote,,2,yes,Security+ 3.0; Security+ 2.0; Security+; Billion Code,310; 315; 390,white; yellow; purple; brown; orange; red; green,1993,current,,3V CR2032,protocol; frequency_mhz,cg-compat-ch; cg-compat-cr; cg-compat-genie; cg-compat-linear; cg-compat-od; cg-compat-wd; cg-compat-stanley; cg-universal; cg-prog-overview; cg-battery,2026-10-14
+Chamberlain,MC100,remote,,,yes,Billion Code; Security+; Security+ 2.0,310; 315; 390,green; red; orange; purple; brown; yellow,,discontinued,CHU62,3V CR2032,protocol; frequency_mhz,cg-universal; cg-battery; cg-prog-overview,2026-10-14
+Clicker,KLIK1U,remote,,,yes,Billion Code; Security+; Security+ 2.0,310; 315; 390,green; red; orange; purple; brown; yellow,,discontinued,CHU62,3V CR2032,protocol; frequency_mhz,cg-universal; cg-battery; cg-prog-overview; cg-klik-faq,2026-10-14
+Clicker,KLIK2U,keypad,,,yes,Billion Code; Security+; Security+ 2.0,310; 315; 390,green; red; orange; purple; brown; yellow,1993,discontinued,CHU48,9V lithium,protocol; frequency_mhz,cg-universal; cg-klik-faq; cg-frequency,2026-10-14
+Clicker,KLIK5U,remote,,,yes,Billion Code; Security+; Security+ 2.0,310; 315; 390,green; red; orange; purple; brown; yellow,1993,discontinued,CHU62,3V CR2032,protocol; frequency_mhz,cg-universal; cg-battery; cg-prog-overview; cg-klik-faq; cg-frequency,2026-10-14
+Craftsman,CMX161,remote,,1,,,,,,current,,3V CR2032,,cg-prog-overview; cg-battery,2026-10-14
+Craftsman,CMX348,keypad,,,,,,,,,,9V alkaline,,cg-keypad-battery,2026-10-14
+Craftsman,CMX363,remote,,3,,,,,,current,,3V CR2032,,cg-prog-overview; cg-battery,2026-10-14
+Genie,G1T,remote,,1,,Intellicode,,,,current,,,,genie-programming; genie-intellicode,2026-10-14
+Genie,G3T,remote,,3,,Intellicode,,,,current,,,,genie-programming; genie-intellicode,2026-10-14
+Genie,Genie Universal Remote (4-button),remote,,4,yes,,,,,current,,3V CR2032,,genie-programming; genie-intellicode; genie-universal,2026-10-14
+Genie,Genie Universal Wireless Keypad,keypad,,,yes,Intellicode,,,,current,,2 x AAA,,genie-programming; genie-intellicode; genie-universal-keypad,2026-10-14
+Genie,GICT390-1,remote,,,,,,,,discontinued,,,,genie-programming; genie-intellicode,2026-10-14
+Genie,GICT390-3,remote,,,,,,,,discontinued,,,,genie-programming; genie-intellicode,2026-10-14
+Genie,GICTD-1,remote,,,,,,,,discontinued,,,,genie-programming; genie-intellicode,2026-10-14
+Genie,GICTD-3,remote,,,,,,,,discontinued,,,,genie-programming; genie-intellicode,2026-10-14
+Genie,GIFT390-1,remote,,,,,,,,discontinued,,,,genie-programming; genie-intellicode,2026-10-14
+Genie,GIFTD-1,remote,,,,,,,,discontinued,,,,genie-programming; genie-intellicode,2026-10-14
+Genie,GIT-1,remote,,,,,,,,discontinued,,,,genie-programming; genie-intellicode,2026-10-14
+Genie,GIT-2,remote,,,,,,,,discontinued,,,,genie-programming; genie-intellicode,2026-10-14
+Genie,GIT-3,remote,,,,,,,,discontinued,,,,genie-programming; genie-intellicode,2026-10-14
+Genie,GITR3-BX,remote,,3,,Intellicode,,,,current,,,,genie-programming; genie-intellicode,2026-10-14
+Genie,GK,keypad,,,,Intellicode,,,,current,,,,genie-programming; genie-intellicode,2026-10-14
+Genie,GK2,keypad,,,,Intellicode,,,,current,,,,genie-programming; genie-intellicode,2026-10-14
+Genie,GL2T,remote,,2,,Intellicode,,,,current,,,,genie-programming; genie-intellicode,2026-10-14
+Genie,GM3T,remote,,,,Intellicode,,,,current,,,,genie-programming; genie-intellicode,2026-10-14
+Genie,GT912,remote,,,,,,,,discontinued,,,,genie-programming; genie-intellicode,2026-10-14
+Genie,GWK-BL,keypad,,,,,,,,discontinued,,,,genie-programming; genie-intellicode,2026-10-14
+Genie,GWK-IC,keypad,,,,,,,,discontinued,,,,genie-programming; genie-intellicode,2026-10-14
+Genie,GWKP,keypad,,,,,,,,discontinued,,,,genie-programming; genie-intellicode,2026-10-14
+Genie,KEP-1,keypad,,,,,,,,discontinued,,,,genie-programming; genie-intellicode,2026-10-14
+Genie,Universal Wireless Wall Console,wall control,,3,yes,,,,,current,,2 x AAA,,genie-universal-wall,2026-10-14
+Genie,Wireless Wall Console,wall control,,,,Intellicode,,,2013,current,,,,genie-wall-console,2026-10-14
+LiftMaster,371LM,remote,,1,,Security+,315,purple; brown,,discontinued,L992U; CHU62,3V CR2032,protocol; frequency_mhz,cg-lm-remote-compat; cg-battery; cg-lm-receiver,2026-10-14
+LiftMaster,373LM,remote,,3,,Security+,315,purple; brown,,discontinued,L992U; CHU62,3V CR2032,protocol; frequency_mhz,cg-lm-remote-compat; cg-battery; cg-lm-receiver,2026-10-14
+LiftMaster,374UT,remote,,,yes,Security+ 2.0; Security+; Billion Code,310; 315; 390,yellow; purple; brown; red; orange; green,,discontinued,L992U; CHU62,3V CR2032,protocol; frequency_mhz,cg-lm-remote-compat; cg-battery; cg-universal; cg-prog-overview,2026-10-14
+LiftMaster,375LM,remote,,2,yes,Billion Code; Security+; Security+ 2.0,310; 315; 390,green; red; orange; purple; brown; yellow,,discontinued,L992U; CHU62,3V CR2032,protocol; frequency_mhz,cg-universal; cg-battery; cg-prog-overview,2026-10-14
+LiftMaster,375UT,remote,,2,yes,Security+ 2.0; Security+; Billion Code,310; 315; 390,yellow; purple; brown; red; orange; green,,discontinued,L992U; CHU62,3V CR2032,protocol; frequency_mhz,cg-lm-remote-compat; cg-battery; cg-universal,2026-10-14
+LiftMaster,377LM,keypad,,,,Security+,315,purple; brown,,discontinued,,9V alkaline,protocol; frequency_mhz,cg-lm-receiver; cg-keypad-battery,2026-10-14
+LiftMaster,380UT,remote,,2,yes,Security+ 2.0; Security+; Billion Code,310; 315; 390,yellow; purple; brown; red; orange; green,,discontinued,L992U; CHU62,3V CR2032,protocol; frequency_mhz,cg-lm-remote-compat; cg-battery; cg-universal,2026-10-14
+LiftMaster,811LM,remote,,1,,dip switch,,,,discontinued,,,,cg-lm-receiver,2026-10-14
+LiftMaster,81LM,remote,,1,,Billion Code,390,green,,discontinued,L992U; CHU62,,protocol; frequency_mhz,cg-lm-remote-compat,2026-10-14
+LiftMaster,83LM,remote,,1,,Billion Code,390,green,,discontinued,L992U; CHU62,,protocol; frequency_mhz,cg-lm-remote-compat,2026-10-14
+LiftMaster,877LM,keypad,,,,Security+ 2.0,310; 315; 390,yellow,,discontinued,,9V alkaline,protocol; frequency_mhz,cg-877; cg-lm-remote-compat; cg-keypad-battery; cg-lm-receiver,2026-10-14
+LiftMaster,877MAX,keypad,,,,Security+ 2.0; Security+; Billion Code,310; 315; 390,yellow; purple; brown; red; orange; green,1993,discontinued,,9V alkaline,protocol; frequency_mhz,cg-877; cg-lm-remote-compat; cg-keypad-battery; cg-940ev-pin,2026-10-14
+LiftMaster,878MAX,keypad,,,,Security+ 2.0,,yellow,,discontinued,,9V alkaline,,cg-878max; cg-keypad-battery; cg-lm-remote-compat; cg-lm-receiver,2026-10-14
+LiftMaster,890MAX,remote,keychain,3,,Security+ 2.0; Security+; Billion Code,310; 315; 390,yellow; purple; brown; red; orange; green,1993,discontinued,L992U; CHU62,3V CR2032,protocol; frequency_mhz,cg-lm-remote-compat; cg-battery; cg-prog-overview; cg-lm-receiver; cg-evmax; cg-890max,2026-10-14
+LiftMaster,890MAXMC,remote,keychain,3,,Security+ 2.0; Security+; Billion Code,310; 315; 390,yellow-mc; yellow; purple; brown; red; orange; green,,discontinued,L992U; CHU62,,protocol; frequency_mhz,cg-lm-remote-compat,2026-10-14
+LiftMaster,891LM,remote,,1,,Security+ 2.0,310; 315; 390,yellow,,discontinued,L992U; CHU62,3V CR2032,protocol; frequency_mhz,cg-lm-remote-compat; cg-battery; cg-lm-receiver,2026-10-14
+LiftMaster,892LT,remote,learning remote,2,,Security+ 2.0; Security+,310; 315; 390,yellow; purple; brown; red; orange,,discontinued,L992U; CHU62,AAA,protocol; frequency_mhz,cg-lm-remote-compat; cg-battery; cg-lm-receiver,2026-10-14
+LiftMaster,893LM,remote,,3,,Security+ 2.0,310; 315; 390,yellow,,discontinued,L992U; CHU62,3V CR2032,protocol; frequency_mhz,cg-lm-remote-compat; cg-battery; cg-lm-receiver,2026-10-14
+LiftMaster,893MAX,remote,visor,3,,Security+ 2.0; Security+; Billion Code,310; 315; 390,yellow; purple; brown; red; orange; green,1993,discontinued,L992U; CHU62,3V CR2032,protocol; frequency_mhz,cg-lm-remote-compat; cg-battery; cg-prog-overview; cg-lm-receiver; cg-evmax; cg-890max,2026-10-14
+LiftMaster,893MAXMC,remote,,3,,Security+ 2.0; Security+; Billion Code,310; 315; 390,yellow-mc; yellow; purple; brown; red; orange; green,,discontinued,L992U; CHU62,,protocol; frequency_mhz,cg-lm-remote-compat,2026-10-14
+LiftMaster,894LT,remote,learning remote,4,,Security+ 2.0; Security+,310; 315; 390,yellow; purple; brown; red; orange,,discontinued,L992U; CHU62,AAA,protocol; frequency_mhz,cg-lm-remote-compat; cg-battery; cg-lm-receiver,2026-10-14
+LiftMaster,895MAX,remote,,3,,Security+ 2.0; Security+; Billion Code,310; 315; 390,yellow; purple; brown; red; orange; green,1993,discontinued,L992U; CHU62,2 x 3V CR2032,protocol; frequency_mhz,cg-lm-remote-compat; cg-battery; cg-lm-receiver; cg-evmax; cg-890max,2026-10-14
+LiftMaster,971LM,remote,,1,,Security+,390,red; orange,,discontinued,L992U; CHU62,3V CR2032,protocol; frequency_mhz,cg-lm-remote-compat; cg-battery,2026-10-14
+LiftMaster,973LM,remote,,3,,Security+,390,red; orange,,discontinued,L992U; CHU62,,protocol; frequency_mhz,cg-lm-remote-compat,2026-10-14
+LiftMaster,L932M,remote,keychain,2,,Security+ 3.0; Security+ 2.0; Security+,310; 315; 390,white; yellow; purple; brown; orange; red,1997,current,,3V CR2032,protocol; frequency_mhz,cg-compat-lm; cg-prog-overview; cg-battery,2026-10-14
+LiftMaster,L979M,keypad,,,,Security+ 3.0; Security+ 2.0; Security+,310; 315; 390,white; yellow; purple; brown; orange; red,1997,current,,9V alkaline,protocol; frequency_mhz,cg-compat-lm; cg-keypad-battery,2026-10-14
+LiftMaster,L979S,keypad,,,,Security+ 3.0,,white,2024,current,,9V alkaline,protocol; frequency_mhz,cg-compat-lm; cg-keypad-battery,2026-10-14
+LiftMaster,L979U,keypad,,,yes,Security+ 3.0; Security+ 2.0; Security+; Billion Code,310; 315; 390,white; yellow; purple; brown; orange; red; green,1993,current,,9V alkaline,protocol; frequency_mhz,cg-compat-lm; cg-universal; cg-keypad-battery,2026-10-14
+LiftMaster,L991S,remote,,1,,Security+ 3.0,,white,2024,current,,3V CR2032,protocol; frequency_mhz,cg-compat-lm; cg-prog-overview; cg-battery,2026-10-14
+LiftMaster,L992U,remote,,2,yes,Security+ 3.0; Security+ 2.0; Security+; Billion Code,310; 315; 390,white; yellow; purple; brown; orange; red; green,1993,current,,3V CR2032,protocol; frequency_mhz,cg-compat-lm; cg-universal; cg-prog-overview; cg-battery,2026-10-14
+LiftMaster,L993M,remote,,3,,Security+ 3.0; Security+ 2.0; Security+,310; 315; 390,white; yellow; purple; brown; orange; red,1997,current,,3V CR2032,protocol; frequency_mhz,cg-compat-lm; cg-prog-overview; cg-battery,2026-10-14
+LiftMaster,L993S,remote,,3,,Security+ 3.0,,white,2024,current,,3V CR2032,protocol; frequency_mhz,cg-compat-lm; cg-prog-overview; cg-battery,2026-10-14
+Linear,306010,remote,keychain,1,,Multi-Code; dip switch,300,,,,,12V (type not published),,linear-306010,2026-10-14
+Linear,308911,remote,,1,,Multi-Code; dip switch,300,,,,,9V,,linear-308911; linear-1011,2026-10-14
+Linear,420001,keypad,,,,Multi-Code; dip switch,300,,,,,9V,,linear-420001,2026-10-14
+Linear,ACT-22A,remote,keychain,3,,MegaCode,,,,,,"lithium (included, 5-year service life)",,linear-act22a,2026-10-14
+Linear,GT-30,remote,,3,,,,,,,,,,linear-genie,2026-10-14
+Linear,GT-31,remote,keychain,3,,,,,,,,,,linear-genie,2026-10-14
+Linear,MDT-1A,remote,,1,,MegaCode,,,,,,"lithium (included, 5-year service life)",,linear-mdt1a,2026-10-14
+Linear,MTR3,remote,,3,,MegaCode,318,,,,,1 x CR2032,,linear-mtr3; linear-megacode,2026-10-14
+myQ,821LM,smart hub,,,,,,,,,,,,cg-smart-garage,2026-10-14
+myQ,821LMB,smart hub,,,,,,,,,,,,cg-smart-garage,2026-10-14
+myQ,MYQ-G0201,smart hub,,,,,,,,,,,,cg-smart-garage,2026-10-14
+myQ,MYQ-G0301,smart hub,,,,,,,,,,,,cg-smart-garage,2026-10-14
+myQ,VKP1-MYQMC,keypad,,,,Security+ 3.0; Security+ 2.0; Security+; Billion Code,310; 315; 390,white; yellow; purple; brown; orange; red; green,1993,current,,,protocol; frequency_mhz,cg-compat-lm; cg-compat-ch; cg-compat-cr,2026-10-14
+Overhead Door,O3T,remote,,3,,CodeDodger,315; 390,,1995,,,,,od-o3t,2026-10-14
+Overhead Door,Overhead Door Universal Remote (4-button),remote,,4,yes,,,,1993,,,3V CR2032,,od-universal; od-universal-faq,2026-10-14
+Overhead Door,Overhead Door Wireless Keypad,keypad,,,,CodeDodger,,,1995,,,,,od-keypad,2026-10-14

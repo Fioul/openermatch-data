@@ -1,0 +1,9 @@
+color_id,name,group,protocol,frequency_mhz,radio,opener_years,antenna_color,led,source_ids,read_on
+green,Green,,Billion Code,390,,1993-1997,gray,green,cg-learn-color,2026-10-14
+red,Red,Red/Orange,Security+,390,,1997-2004,gray,amber/yellow,cg-learn-color,2026-10-14
+orange,Orange,Red/Orange,Security+,390,,1997-2004,gray,amber/yellow,cg-learn-color,2026-10-14
+purple,Purple,Purple/Brown,Security+,315,,2005-2014,purple,amber/yellow,cg-learn-color; cg-frequency,2026-10-14
+brown,Brown,Purple/Brown,Security+,315,,2005-2014,purple,amber/yellow,cg-learn-color,2026-10-14
+yellow,Yellow (round),,Security+ 2.0,310; 315; 390,,2011-2022,yellow,amber/yellow,cg-learn-color; cg-frequency,2026-10-14
+yellow-mc,"Yellow (round) with Step Saver Set Up label, MC models",,Security+ 2.0,315; 390,,2022-2025,yellow,amber/yellow,cg-learn-color; cg-lm-remote-compat,2026-10-14
+white,White (round),,Security+ 3.0,,Bluetooth (as listed),2025-present,white,amber/yellow,cg-learn-color,2026-10-14
