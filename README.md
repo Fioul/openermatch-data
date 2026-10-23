@@ -1,6 +1,6 @@
 # openermatch-data
 
-Open data behind [OpenerMatch](https://openermatch.com/), an independent guide to garage door opener remotes, keypads, sensors, and batteries. Updated 2026-10-17.
+Open data behind [OpenerMatch](https://openermatch.com/), an independent guide to garage door opener remotes, keypads, sensors, and batteries. Updated 2026-10-23.
 
 | File | What it holds | Rows |
 | --- | --- | --- |
